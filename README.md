@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hi, my name is Wahid. 20 y/o Indonesian who's interested in software engineering and data science. I'm currently studying in Amikom University of Yogyakarta in the informatics major.er
-
-* 🌍  I'm based in Yogyakarta
+* 🌍  I'm based in Kebumen
+* 🏫  I'm currently studying in Amikom University of Yogyakarta in the informatics
 * ✉️  You can contact me at [wahidh697@gmail.com](mailto:wahidh697@gmail.com)
 
 
