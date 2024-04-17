@@ -7,5 +7,4 @@ Software Engineer
 * 🌍  I'm based in Kebumen
 * ☘️  Laravel Developer
 * 🏫  I'm currently studying in Amikom University of Yogyakarta in the informatics
-* ✉️  You can contact me at [wahidh697@gmail.com](mailto:wahidh697@gmail.com)
 
