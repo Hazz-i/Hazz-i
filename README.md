@@ -5,6 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Kebumen
-* ☘️  I'm currently learn FullStack
+* ☘️  I'm currently learn FullStack DevOps and ML
 * 🏫  I'm currently studying in Amikom University of Yogyakarta in the informatics
 
