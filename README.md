@@ -1,11 +1,11 @@
-<!-- [![MasterHead](https://64.media.tumblr.com/0786520fae641ba6c7809432ee5068bc/737d50b3957ba3f4-c2/s640x960/ccd2f8bfccdb6ad9c1e2b060803bce4d51d3e97f.gif)](https://rishavchanda.io) -->
+[![MasterHead](https://64.media.tumblr.com/0786520fae641ba6c7809432ee5068bc/737d50b3957ba3f4-c2/s640x960/ccd2f8bfccdb6ad9c1e2b060803bce4d51d3e97f.gif)](https://rishavchanda.io)
 
 <h1 align="center"> Welcome to my isekai 🌍</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/a1/68/51a1685a81172ce52b1b14214790a75b.gif"/>
-  <img src="https://i.pinimg.com/originals/71/90/6c/71906c5eff4079a648c57aed47cc46fc.gif"/> <br/>
-  <img width='1000' src="https://64.media.tumblr.com/0786520fae641ba6c7809432ee5068bc/737d50b3957ba3f4-c2/s640x960/ccd2f8bfccdb6ad9c1e2b060803bce4d51d3e97f.gif"/>
+  <img width="320" src="https://i.pinimg.com/originals/51/a1/68/51a1685a81172ce52b1b14214790a75b.gif"/>
+  <img width="320" src="https://i.pinimg.com/originals/71/90/6c/71906c5eff4079a648c57aed47cc46fc.gif"/> <br/>
+  <img src="https://64.media.tumblr.com/0786520fae641ba6c7809432ee5068bc/737d50b3957ba3f4-c2/s640x960/ccd2f8bfccdb6ad9c1e2b060803bce4d51d3e97f.gif"/>
 </p>
 
 <!-- # Hi!👋 I'm Wahid Hasim Santoso -->
