@@ -5,7 +5,6 @@
 <p align="center">
   <img width="400" src="https://i.pinimg.com/originals/51/a1/68/51a1685a81172ce52b1b14214790a75b.gif"/>
   <img width="400" src="https://i.pinimg.com/originals/71/90/6c/71906c5eff4079a648c57aed47cc46fc.gif"/> <br/>
-  <img width="800" src="https://i.pinimg.com/originals/f5/2e/ab/f52eabfbbe055eaa82c3ee1e2c6d3183.gif"/>
 </p>
 
 <!-- # Hi!👋 I'm Wahid Hasim Santoso -->
@@ -47,8 +46,11 @@ a reality, one line of code at a time!
 <!-- Socials -->
 <div align="center">
   
-## 💫 Connect with Me ✨
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wh.hasn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-hasim-santoso)
+<h3> 💫 Connect with Me ✨ </h3>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wh.hasn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahid-hasim-santoso)
 
 </div>
 
